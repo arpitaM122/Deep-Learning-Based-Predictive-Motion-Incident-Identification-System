@@ -1,0 +1,2 @@
+# Deep-Learning-Based-Predictive-Motion-Incident-Identification-System
+Building an accurate fall detection model is challenging due to complex human motion and environmental variations. This framework uses MediaPipe and Part Affinity Fields on the GMDCSA-24 dataset with SVM, XGBoost, ANN, and LSTM classifiers, improving accuracy and reducing false positives through combined skeletal and spatial feature analysis.
